@@ -46,8 +46,12 @@ Our election results was provided to us in a csv file with 369,712 records and p
 - Here is also our summary output of the election results
 
   <p align="left">
-  <img src="Image_Election_results.png" width="400">
+  <img src="/Resources/Image_Election_results.png" width="400">
   </p>
  
 ## Election-Audit Summary:
+
+- Our python code that we are providing with this audit is very versatile and it can be used for vote counting on various occasions by changing the input file. As long as the input file has the columns in the same order, i.e. Ballot ID is column A, County is column B and Candidate is column C we can make the following change and run our report.
+
+
 
