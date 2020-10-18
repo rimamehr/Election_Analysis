@@ -45,7 +45,7 @@ Our election results was provided to us in a csv file with 369,712 records and p
   
 - Here is also our summary output of the election results
 
-<img src="/Image_Election_results.png" width="400"/>
+align:center"><img src="/Image_Election_results.png" width="400"/>
  
 ## Election-Audit Summary:
 
