@@ -20,4 +20,11 @@ Our election results was provided to us in a csv file with 369,712 records and p
 - How many votes were cast in this congressional election?
 
   - According to the election results file that was provided to us had **369,712 votes** casted in this congressional election. 
+  
+- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
+  - County Votes:
+    - Jefferson: 10.5% (38,855)
+    - Denver: 82.8% (306,055)
+    - Arapahoe: 6.7% (24,801)
 
