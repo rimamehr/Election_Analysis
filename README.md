@@ -19,5 +19,5 @@ Our election results was provided to us in a csv file with 369,712 records and p
 ## Election-Audit Results
 - How many votes were cast in this congressional election?
 
-According to the election results file that was provided to us had **369,712 votes** casted in this congressional election. 
+  According to the election results file that was provided to us had **369,712 votes** casted in this congressional election. 
 
