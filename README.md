@@ -51,9 +51,13 @@ Our election results was provided to us in a csv file with 369,712 records and p
  
 ## Election-Audit Summary:
 
-- Our python code that we are providing with this audit is very versatile and it can be used for vote counting on various occasions by changing the input file. As long as the input file has the columns in the same order, i.e. Ballot ID is column A, County is column B and Candidate is column C we can make the following change and run our report.
+- Our python code that we are providing with this audit is very versatile and it can be used for vote counting on various occasions by changing the input file. As long as the input file has the columns in the same order, i.e. Ballot ID is column A, County is column B and Candidate is column C we can make the following change and run our report as is to get updated voting numbers.
   <p align="left">
   <img src="/Resources/Image Change input file.png"width="800"/>
   </p>
 
+- If we see that our input file doesnt have the same format then once we are done importing a new results file into our code, we can make the following changes in our code to run the new numbers. 
+  <p align="left">
+  <img src="/Resources/Image Change input file2.png"width="800"/>
+  </p>
 
