@@ -31,3 +31,16 @@ Our election results was provided to us in a csv file with 369,712 records and p
 - Which county had the largest number of votes?
 
   - **Denver** had the higest number of votes with 306,055.
+  
+- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
+  - List of candidates and their vote percentages:
+    - Charles Casper Stockham: 23.0% (85,213)
+    - Diana DeGette: 73.8% (272,892)
+    - Raymon Anthony Doane: 3.1% (11,606)
+    
+- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
+  - From our analysis its clear that **Diana DeGette** won the election with *272,892* votes casted in her favor which was **73.8%** of the total votes.
+ 
+    
