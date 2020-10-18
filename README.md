@@ -56,7 +56,7 @@ Our election results was provided to us in a csv file with 369,712 records and p
   <img src="/Resources/Image Change input file.png"width="800"/>
   </p>
 
-- If we see that our input file doesnt have the same format then once we are done importing a new results file into our code, we can make the following changes in our code to run the new numbers. 
+- If we see that our input file doesnt have the same format, then once we are done importing a new voting results file into our code, we can make the following changes in our code to run the new numbers. 
   <p align="left">
   <img src="/Resources/Image Change input file2.png"width="800"/>
   </p>
