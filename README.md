@@ -28,3 +28,6 @@ Our election results was provided to us in a csv file with 369,712 records and p
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
 
+- Which county had the largest number of votes?
+
+  - **Denver** had the higest number of votes with 306,055.
