@@ -42,5 +42,10 @@ Our election results was provided to us in a csv file with 369,712 records and p
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
   - From our analysis its clear that **Diana DeGette** won the election with *272,892* votes casted in her favor which was **73.8%** of the total votes.
+  
+- Here is also our summary output of the election results
+
+<img src="/Image_Election_results.png" width="400"/>
  
-    
+## Election-Audit Summary:
+
